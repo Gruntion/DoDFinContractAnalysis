@@ -28,15 +28,93 @@ info = [("Madison", "Mississippi"),
 
 
 date =
-company =
+company = []
 awardamount =
-contract_type =
+contract_type = []
 finish_date =
 obligated =
 conditions =
 contract_number =
 info = []
 
+date =
+company = []
+awardamount =
+contract_type = []
+finish_date =
+obligated =
+conditions =
+contract_number =
+info = []
+
+date =
+company = []
+awardamount =
+contract_type = []
+finish_date =
+obligated =
+conditions =
+contract_number =
+info = []
+
+date =
+company = []
+awardamount =
+contract_type = []
+finish_date =
+obligated =
+conditions =
+contract_number =
+info = []
+
+date =
+company = []
+awardamount =
+contract_type = []
+finish_date =
+obligated =
+conditions =
+contract_number =
+info = []
+
+date =
+company = []
+awardamount =
+contract_type = []
+finish_date =
+obligated =
+conditions =
+contract_number =
+info = []
+date =
+company = []
+awardamount =
+contract_type = []
+finish_date =
+obligated =
+conditions =
+contract_number =
+info = []
+
+date =
+company = []
+awardamount =
+contract_type = []
+finish_date =
+obligated =
+conditions =
+contract_number =
+info = []
+
+date =
+company = []
+awardamount =
+contract_type = []
+finish_date =
+obligated =
+conditions =
+contract_number =
+info = []
 #Column Headers for Data.
 (date, company,  awardamount, contract_type, finish_date, obligated, conditions, contract_number, info)
 
